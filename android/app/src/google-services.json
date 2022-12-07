@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887429545525",
+    "project_id": "poorhelp-37e4c",
+    "storage_bucket": "poorhelp-37e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887429545525:android:6729a8b544dfb5c7ae7b7c",
+        "android_client_info": {
+          "package_name": "com.example.projectno2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887429545525-lcn9ark99bcck981ue4gq5268v9e18d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvSE48fRl08tX6CO0GKsLwW_7nAuJCgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887429545525-lcn9ark99bcck981ue4gq5268v9e18d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
